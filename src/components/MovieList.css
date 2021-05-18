@@ -1,0 +1,25 @@
+.List-films {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .List-cont {
+    background-color: #5877b9;
+    height: auto;
+  }
+  .add-Films {
+    text-align: center;
+  }
+  .add-botton {
+    padding: 10px 20px;
+    margin: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    width: 300px;
+    background-color: #f16e42;
+    color: black;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+  }
